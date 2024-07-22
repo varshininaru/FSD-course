@@ -6,7 +6,7 @@ function Cmp2(){
                 Reviewer name
             </li>
             <li>
-                This is review provided by Reviewer1
+                This is review1 provided by Reviewer1
             </li>
         </ul>
         <ul>
@@ -14,7 +14,7 @@ function Cmp2(){
             Reviewer name
             </li>
             <li>
-                This is review provided by Reviewer2
+                This is review2 provided by Reviewer2
             </li>
         </ul>
         </div>
