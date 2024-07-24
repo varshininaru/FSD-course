@@ -1,6 +1,6 @@
 import ReactDOM from "react-dom/client";
-import Cmp3 from "./ass3";
+import Login from "./login";
 
 const rootElement = document.getElementById('root')
 const rootref = ReactDOM.createRoot(rootElement);
-rootref.render(<Cmp3/>);
+rootref.render(<Login/>);

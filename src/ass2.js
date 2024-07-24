@@ -1,6 +1,8 @@
+import Cmp3 from "./ass3";
 function Cmp2(){
     return(
         <div>
+            <Cmp3/>
         <ul>
             <li>
                 Reviewer name
