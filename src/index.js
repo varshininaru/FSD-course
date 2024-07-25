@@ -1,6 +1,6 @@
 import ReactDOM from "react-dom/client";
-import Login from "./login";
+import App from "./route";
 
 const rootElement = document.getElementById('root')
 const rootref = ReactDOM.createRoot(rootElement);
-rootref.render(<Login/>);
+rootref.render(<App/>);
